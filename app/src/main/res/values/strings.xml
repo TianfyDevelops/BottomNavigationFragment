@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">BottomNavigationViewFragmentJava</string>
+    <string name="menu_main_titile">首页</string>
+    <string name="menu_my_title">个人中心</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_main_fragment">Hello main fragment</string>
+    <string name="hello_my_fragment">Hello my fragment</string>
+</resources>
